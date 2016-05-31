@@ -1,0 +1,2 @@
+V	260529222919Z		01	unknown	/C=TW/ST=Taipei/L=NCTU/O=Fort-Funston/OU=MyOrganizationalUnit/CN=archiso/name=EasyRSA/emailAddress=jack@yzwang.bsdwhiz.xyz
+V	260529223037Z		02	unknown	/C=TW/ST=Taipei/L=SanFrancisco/O=NCTU/OU=MyOrganizationalUnit/CN=client/name=EasyRSA/emailAddress=jack@yzwang.bsdwhiz.xyz
